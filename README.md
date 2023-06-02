@@ -6,7 +6,8 @@ This is a simple interactive panda form implemented using HTML, CSS, and JavaScr
 
 ## Preview
 
-![Preview](preview.png) <!-- Add a preview image if available -->
+| [Live Demo](https://eswar3008.github.io/Interactive-Login/)  |
+
 
 ## How to Use
 
