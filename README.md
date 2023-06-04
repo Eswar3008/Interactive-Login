@@ -2,7 +2,7 @@
 
 # Interactive Panda Form
 
-This is a simple interactive panda form implemented using HTML, CSS, and JavaScript. With the
+This is a simple interactive panda form implemented using HTML, CSS, and JavaScript. With the background of
 The form allows users to enter a username and password.
 
 ## Preview
